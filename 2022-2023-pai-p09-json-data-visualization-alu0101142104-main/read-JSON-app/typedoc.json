@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./www/src/bar-chart.ts",
+    "./www/src/read-json.ts"
+  ],
+  "out": "./docs"
+}

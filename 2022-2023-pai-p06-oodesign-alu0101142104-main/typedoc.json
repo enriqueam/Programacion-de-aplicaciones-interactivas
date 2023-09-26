@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/tic-tac-toe/tic-tac-toe.ts"
+  ],
+  "out": "./docs"
+}

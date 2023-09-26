@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/jutge/add-one-second-P34279/add-one-second-P34279.ts",
+  ],
+  "out": "./docs"
+}

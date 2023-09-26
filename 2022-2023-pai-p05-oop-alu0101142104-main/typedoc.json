@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./src/home-work/mySet/mySet.ts",
+    "./src/home-work/racionals/racionals.ts",
+  ],
+  "out": "./docs"
+}

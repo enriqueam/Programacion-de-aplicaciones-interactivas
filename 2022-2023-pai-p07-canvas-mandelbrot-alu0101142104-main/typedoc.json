@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/home-work/mandelbrot/mandelbrot.ts"
+  ],
+  "out": "./src/home-work/mandelbrot/docs",
+}

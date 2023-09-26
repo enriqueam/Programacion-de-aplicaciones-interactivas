@@ -1,0 +1,10 @@
+{
+  "name": "Introduction to JavaScript",
+  "version": "1.0.0",
+  "description": "Simple programs in JS",
+  "author": "Enrique Alvarez Mesa",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "1.4.9"
+  }
+}

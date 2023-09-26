@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "commonjs",
+    "allowJs": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "declaration": true,
+    "strictPropertyInitialization": true,     /* will raise an error when a class property was declared but not set in the constructor */
+    "strictNullChecks": true,                 /* When type checking, take into account `null` and `undefined`. */
+    "noImplicitAny": true,                    /* will issue an error whenever it would have inferred any:*/ 
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["./src/jutge/**/*.ts"],
+  "exclude": [
+        "node_modules",
+        "build",
+        "lib",
+        "test",
+        "public"
+  ]
+}
+
